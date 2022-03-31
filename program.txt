@@ -1,0 +1,17 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+
+    int a[4];
+    int bombay = 4,c;
+    double x;
+    label:
+    float d,e;
+    int arr[10];
+    y:
+    a = 10;
+    cout<<a;
+    return 0;
+}
